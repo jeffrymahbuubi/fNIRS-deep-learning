@@ -1,0 +1,3 @@
+[submodule "reference/1D-deeplearning-model-pytorch-main"]
+	path = reference/1D-deeplearning-model-pytorch-main
+	url = https://github.com/StChenHaoGitHub/1D-deeplearning-model-pytorch
